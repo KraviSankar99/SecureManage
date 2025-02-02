@@ -4,7 +4,7 @@ spring:
   datasource:
     url: jdbc:mysql://produrl:3306/securecapita
     password: letmein
-    username: root
+    username: pwd
   jpa:
     database-platform: org.hibernate.dialect.MySQL8InnoDBDialect
     generate-ddl: true
