@@ -1,7 +1,7 @@
 ####################################################################
 ###                                                             ####
 ### Author: Junior RT                                           ####
-### License: Get Arrays LLC License (https://getarrays.io)      ####
+### License: Get Arrays LLC License (https:/.io)      ####
 ### Date: August 20th, 2022                                     ####
 ### Version: 1.0                                                ####
 ###                                                             ####
