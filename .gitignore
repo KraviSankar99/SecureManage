@@ -1,0 +1,15 @@
+# Node modules
+node_modules/
+securecapita/node_modules/
+
+# Build output
+dist/
+target/
+
+# VS Code settings
+.vscode/
+
+# Logs
+*.log
+
+.DS_Store
